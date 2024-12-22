@@ -8,4 +8,4 @@ docker run -it --name pzof_1team \
 
 команда для переноса файла с выводом из докера в локальную директорию docker cp pzof_1team:/app/output/optimized_payments.csv /path/to/local/directory/
 
-
+Или же можете использовать файл .py, как более быструю альтернативу, но в ней нужно заменить пути файлов с данными
